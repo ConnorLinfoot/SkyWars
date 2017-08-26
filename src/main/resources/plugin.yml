@@ -1,0 +1,5 @@
+name: SkyWars
+description: SkyWars using the NetworkLib plugin.
+depend: NetworkLib
+version: ${project.version}
+main: com.connorlinfoot.skywars.SkyWarsPlugin
